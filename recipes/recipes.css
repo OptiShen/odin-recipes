@@ -6,31 +6,42 @@
 }
 
 body {
-    background-color: #fff5d7;
+    background-color: #EFECE3;
     font-family: Arial, Helvetica, sans-serif;
 }
 
 h1 {
     text-align: center;
     margin: 20px 0;
-    color: #333;
+    color: #363636;
 }
 
 h2 {
-    color: #555;
+    color: #363636;
     margin: 15px 0;
 }
 
 a {
+    font-size: 1.5em;
     text-decoration: none;
-    color: #007BFF;
+    color: #008ba3;
 }
 
+.home {
+    text-align: center;
+    margin: 20px 0;
+}
 
+p {
+    margin: 10px 0;
+    font-size: 1em;
+    color: #363636;
+}
 
 li {
     margin: 10px 0;
-    font-size: 1.2em;
+    font-size: 1em;
+    color: #363636;
 }
 
 .recipes {
@@ -56,3 +67,4 @@ img {
     margin: 15px 0;
     padding: 0 35px;
 }
+
