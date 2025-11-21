@@ -6,22 +6,31 @@
 }
 
 body {
-    background-color: #fff5d7;
+    background-color: #EFECE3;
     font-family: Arial, Helvetica, sans-serif;
 }
 
 h1 {
     text-align: center;
     margin: 20px 0;
-    color: #333;
+    color: #363636;
 }
 
 a {
     text-decoration: none;
-    color: #007BFF;
+    color: #363636;
 }
 
 li {
     margin: 10px 0;
     font-size: 1.2em;
+}
+
+.recipes {
+    max-width: 400px;
+    margin: 0 auto;
+    text-align: center;
+    padding: 12px 0; 
+    background-color: #F5F1E9;
+    border-radius: 12px;
 }
